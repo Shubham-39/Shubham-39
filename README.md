@@ -36,7 +36,7 @@
   <a href= "https://x.com/Shubham05699093"  target="_blank">
         <img src="https://img.shields.io/badge/Twitter-59B2F4?style=for-the-badge&logo=x&logoColor=ffffff" target="_blank">
   </a>  
-  <!--<a href="https://rahulghosh.vercel.app" target="_blank"> -->
+  <a href="https://shubhamsarkar.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
